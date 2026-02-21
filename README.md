@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Malik Hamza Nawaz</h1>
-<h3 align="center">Front-end Developer | Unity Developer | Content Writer</h3>
+<h1 align="center">Hi, I'm Malik Hamza Nawaz, a Software Engineer from Pakistan</h1>
+<h3 align="center">Front-End Developer | QA Engineer | SEO Content Writer</h3>
 
-- 🔭 I’m currently working on **an automated solar device (IoT) and its web application.**
+- 🔭 I have recently completed my final year project (FYP) i.e: **an automated solar device (IoT) and its web application a.k.a solaraXis**
 
 - 🌱 I’m currently learning **different frameworks and libraries to boost my growth.**
 
